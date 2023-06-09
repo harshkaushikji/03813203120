@@ -1,7 +1,7 @@
 // AllTrainsPage.js
 
 import React, { useEffect, useState } from 'react';
-import TrainItem from './TrainItem';
+import TrainItem from './trainitem';
 import { fetchAllTrains } from ;
 
 const AllTrainsPage = () => {
